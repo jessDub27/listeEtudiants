@@ -1,0 +1,44 @@
+[
+    {
+        "id_etudiant": "00",
+        "nom": "Aucun étudiant sélectionné",
+        "session": "1",
+        "cours": []
+    },
+    {
+        "id_etudiant": "01",
+        "nom": "Jean",
+        "session": "1",
+        "cours": ["Prog1"]
+    },
+    {
+        "id_etudiant": "02",
+        "nom": "Alice",
+        "session": "2",
+        "cours": ["Prog2"]
+    },
+    {
+        "id_etudiant": "03",
+        "nom": "Pierre",
+        "session": "2",
+        "cours": ["Math1", "Philosophie1"]
+    },
+    {
+        "id_etudiant": "04",
+        "nom": "Marie",
+        "session": "3",
+        "cours": ["Histoire1", "Prog2"]
+    },
+    {
+        "id_etudiant": "05",
+        "nom": "Julien",
+        "session": "3",
+        "cours": ["Littérature1", "Math2"]
+    },
+    {
+        "id_etudiant": "06",
+        "nom": "Sophie",
+        "session": "1",
+        "cours": ["Sciences1"]
+    }
+]
